@@ -1,3 +1,3 @@
 # Sentiment-analysis
 
-I used transformers library for the backend and gradio for the quick frontend/interface
+uses hugging face transformers library for the backend and gradio for the quick user side interface
